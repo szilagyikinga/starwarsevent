@@ -14,6 +14,6 @@ class DefaultController extends Controller
      */
     public function indexAction()
     {
-        return new Response('Hello Symfony');
+        return new Response('Hello Symfony2');
     }
 }
