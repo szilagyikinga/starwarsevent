@@ -1,2 +1,3 @@
 source 'https://rubygems.org'
-gem 'capifony', '~> 2.8.1'
+gem 'capifony', '~> 2.7.0'
+gem 'capistrano', '~> 2.15'

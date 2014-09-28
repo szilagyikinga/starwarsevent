@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    capifony (2.8.1)
+    capifony (2.7.0)
       capistrano (>= 2.13.5, <= 2.16.0)
       capistrano-maintenance (= 0.0.3)
       colored (>= 1.2.0)
@@ -31,4 +31,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  capifony (~> 2.8.1)
+  capifony (~> 2.7.0)
+  capistrano (~> 2.15)

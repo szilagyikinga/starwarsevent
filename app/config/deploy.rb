@@ -1,4 +1,4 @@
-set :szilagyikinga, "set your application name here"
+set :application, "szilagyikinga"
 set :domain,      "#{application}.fr"
 set :deploy_to,   "/home/ubuntu/starwarsevent"
 set :app_path,    "app"
